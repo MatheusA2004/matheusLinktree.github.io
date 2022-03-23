@@ -74,7 +74,7 @@ h2{
 }
 
 .referencias li a span{
-    color: grey;
+    color: rgb(146, 146, 146);
     padding: 10px 10px;
     text-align:center;
 }
